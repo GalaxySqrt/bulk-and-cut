@@ -1,2 +1,2 @@
-# fit-app
-Sistemas fitness
+# bulk & cut
+Diet app, for tracking calories and nutrients.
